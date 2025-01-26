@@ -3,13 +3,13 @@
 # Deploying a Machine Learning Model on AWS
 
 ## Project Focus
-The focus of this project is on **deploying** a machine learning model to AWS. Although we do make predictions, the main objective is to set up all the necessary AWS resources (S3, SageMaker, Lambda, API Gateway) to host our model in a scalable, serverless environment.
+The focus of this project is on **deploying** a machine learning model to AWS. Although we do make predictions, the main objective is to set up all the necessary AWS resources (S3, SageMaker, Lambda, API Gateway) to host my model in a scalable, serverless environment.
 
 ---
 
 ## AWS Services Used
 - **Amazon S3** – for storing the training data (`train.csv`).
-- **Amazon SageMaker** – for training our XGBoost model on the bank dataset and hosting a real-time inference endpoint.
+- **Amazon SageMaker** – for training my XGBoost model on the bank dataset and hosting a real-time inference endpoint.
 - **AWS Lambda** – for providing inference logic (calls the SageMaker endpoint).
 - **Amazon API Gateway** – for creating an HTTP endpoint that triggers the Lambda function.
 
