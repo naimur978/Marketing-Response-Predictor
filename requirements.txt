@@ -1,0 +1,6 @@
+boto3
+sagemaker
+pandas
+numpy
+matplotlib
+ipython
