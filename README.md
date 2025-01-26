@@ -3,7 +3,7 @@
 # Deploying a Machine Learning Model on AWS
 
 ## Project Focus
-The focus of this project is on **deploying** a machine learning model to AWS. Although we do make predictions, the main objective is to set up all the necessary AWS resources (S3, SageMaker, Lambda, API Gateway) to host my model in a scalable, serverless environment.
+The focus of this project is on **deploying** a machine learning model to AWS. Although I did make predictions, the main objective is to set up all the necessary AWS resources (S3, SageMaker, Lambda, API Gateway) to host my model in a scalable, serverless environment.
 
 ---
 
